@@ -1,6 +1,7 @@
-package Classes;
+//Non-static nested classes are called inner classes
 
-public class NestedClass {
+package Classes;
+public class NestedInnerClasses {
     class Test1 {
     }
     class Test2 {
