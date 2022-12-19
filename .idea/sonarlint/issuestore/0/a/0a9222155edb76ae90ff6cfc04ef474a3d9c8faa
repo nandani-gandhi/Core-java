@@ -1,0 +1,11 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿ÀŠ­
+g	java:S116"RRename this field "roll_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”äÑ™
+o
+java:S3008"TRename this field "last_roll" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ©£Àÿÿÿÿÿ
+f
+java:S1206"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ
+E
+java:S1197"*Move the array designators [] to the type.(º ìıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×µ²ÿıÿÿÿÿ
